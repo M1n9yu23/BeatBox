@@ -2,8 +2,8 @@ package com.bignerdranch.android.beatbox
 
 import org.hamcrest.MatcherAssert
 import org.hamcrest.core.Is.`is`
-import org.junit.Test
 import org.junit.Before
+import org.junit.Test
 import org.mockito.Mockito.mock
 import org.mockito.Mockito.verify
 
